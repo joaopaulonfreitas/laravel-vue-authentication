@@ -1,0 +1,1 @@
+<p>Click <a href="http://127.0.0.1:8001/api/reset/{{$token}}">Aqui</a> para recuperar sua senha.</p>
